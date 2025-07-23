@@ -4,7 +4,7 @@
 
 ## 小白程序员—Lyles2163
 
-![背景](https://github.com/Lyles2163/ImageLibrary/raw/main/dadsada.gif)
+<img src="https://github.com/Lyles2163/ImageLibrary/raw/main/dadsada.gif" alt="背景" style="width: 100%;">
 
 ## ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 
