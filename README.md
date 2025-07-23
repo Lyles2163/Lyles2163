@@ -5,7 +5,7 @@
 
 ## 小白程序员—Lyles2163
 
-<img src="https://github.com/Lyles2163/ImageLibrary/raw/main/dadsada.gif" alt="背景" style="width: 100%;">
+<img src="https://github.com/Lyles2163/ImageLibrary/raw/main/dadsada.gif" alt="背景" style="display: block; width: 100%; max-width: 100%; margin: 0 auto;">
 
 ## ![](https://img.shields.io/badge/讨厌-学习-yellow) 
 
