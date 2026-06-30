@@ -19,6 +19,6 @@
 
 
 ### Github 活跃度
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyles2163&hide=html,go)](https://github.com/anuraghazra/github-readme-stats)
+![Lyles2163's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyles2163&show_icons=true)
 
 </div>
