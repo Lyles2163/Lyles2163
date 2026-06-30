@@ -21,4 +21,6 @@
 ### Github 活跃度
 ![Lyles2163's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyles2163&show_icons=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 </div>
