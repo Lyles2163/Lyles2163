@@ -19,7 +19,6 @@
 
 
 ### Github 活跃度
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyles2163&hide=Vim%20Script,html)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyles2163&hide=html,go)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
