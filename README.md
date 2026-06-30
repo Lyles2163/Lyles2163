@@ -17,10 +17,11 @@
 
 ### 开源项目
 
+![Lyles2163's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyles2163&show_icons=true&theme=tokyonight)
 
 ### Github 活跃度
-![Lyles2163's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyles2163&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyles2163&hide=html,go)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
