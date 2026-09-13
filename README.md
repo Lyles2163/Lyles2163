@@ -23,5 +23,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyles2163)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/Lyles2163">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lyles2163&show_icons=true&theme=dark" />
+</a>
+
+<a href="https://github.com/Lyles2163">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyles2163&layout=compact&theme=dark&card_width=320" />
+</a>
 
 </div>
