@@ -16,7 +16,13 @@
 
 ### 开源项目
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Lyles2163&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&theme=dark_github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api?username=Lyles2163&&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=light_github" alt="Anurag's GitHub stats" />
+</picture>
 
 ### Github 活跃度
 
