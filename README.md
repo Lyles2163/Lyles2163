@@ -21,6 +21,8 @@
 ### Github 活跃度
 
 <picture>
+
+  
   <source
     srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Lyles2163&langs_count=4&theme=dark_github"
     media="(prefers-color-scheme: dark)"
@@ -28,6 +30,12 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lyles2163&langs_count=4&theme=light_github" alt="Top Langs" />
 </picture>
 
-
+ <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/wakatime?username=Lyles2163&langs_count=6&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Lyles2163&langs_count=6&theme=light_github" alt="Alan's WakaTime stats" />
+  </picture>
 
 </div>
