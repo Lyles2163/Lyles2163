@@ -33,7 +33,7 @@
     srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Lyles2163&langs_count=4text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=dark_github"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lyles2163&langs_count=4&theme=light_github" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lyles2163&langs_count=4text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=light_github" alt="Top Langs" />
 </picture>
 
 
