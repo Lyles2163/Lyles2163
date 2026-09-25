@@ -30,12 +30,12 @@
 
   
   <source
-    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Lyles2163&langs_count=4&theme=dark_github"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Lyles2163&langs_count=4text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=dark_github"
     media="(prefers-color-scheme: dark)"
   />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lyles2163&langs_count=4&theme=light_github" alt="Top Langs" />
 </picture>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+
 
 
 </div>
