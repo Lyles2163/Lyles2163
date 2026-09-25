@@ -17,19 +17,18 @@
 
 ### 开源项目
 
-![Lyles2163's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lyles2163&show_icons=true&theme=tokyonight)
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Lyles2163)](https://github.com/stats-organization/github-stats-extended)
 
 ### Github 活跃度
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lyles2163)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Lyles2163&langs_count=4&theme=dark_github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lyles2163&langs_count=4&theme=light_github" alt="Top Langs" />
+</picture>
 
-<a href="https://github.com/Lyles2163">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Lyles2163&show_icons=true&theme=dark" />
-</a>
 
-<a href="https://github.com/Lyles2163">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyles2163&layout=compact&theme=dark&card_width=320" />
-</a>
 
 </div>
